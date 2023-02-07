@@ -1,1 +1,1 @@
-# odin-recipes
+This is a repository for me to practice html and build a website about recipes.
